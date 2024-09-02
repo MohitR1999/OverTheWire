@@ -1,0 +1,15 @@
+- This is the first time taking challenge
+- The password to crack this level is present inside the file ```data.txt``` that has been repeatedly compressed using different compression algorithms
+- Now the ```data.txt``` contains hex dump of the binary we are supposed to decompress, so first of all we need to convert it into actual binary. Since we cannot write in the home partition, we use a temporary directory inside the ```/tmp``` location
+- First of all we make a temporary directory using the command ```mktemp -d``` and copy the ```data.txt``` over there. In my case the temp directory was ```/tmp/tmp.n23TlTxv2q```
+- Moved the ```data.txt``` to this temp directory and renamed it to ```hex_dump```
+- Now since this is a hex dump, we need to convert it into the binary. Used the command ```xxd -r hex_dump binary```
+- Analysed the file ```binary``` using the ```xxd``` tool. The first 2 bytes were ```1F 8B```, indicating that it is a ```gzip``` compressed file. Hence renamed the file to ```binary.gz``` and ran ```gzip -d binary.gz``` command to decompress it
+- After decompressing, we get the file named ```binary``` which was analysed again using ```xxd```
+- This file had the magic header as ```42 5A 68```, indicating that it is a ```bzip2``` compressed file. So the file was renamed to ```binary.bz2``` and then the command ```bzip2 -d binary.bz2``` was used to decompress it.
+- After decompression, we get the file named ```binary```, which was analysed using the ```xxd```. It had the magic header as ```1F 8B```, indicating that it is a ```gzip``` compressed file. Hence renamed the file to ```binary.gz``` and ran ```gzip -d binary.gz``` command to decompress it
+- Now after decompression, after analysing the hexdump of the file ```binary```, it was found that the first few bytes had a file name, and the header looked like this: ```data5.bin...```, indicating that it is a tar archive. Hence, renamed it to ```binary.tar``` and decompressed it using the command ```tar -xf binary.tar```
+- Decompressing this file gave a file named ```data5.bin```, which had a similar header as the previous compressed file, so decompressed it again after renaming it.
+- Decompressing this file gave a file named ```data6.bin```, whose magic header showed that it is a bzip2 compressed file, so decompressed it in the same way
+- Decompressing the ```data6``` file gave us the final text file named ```data8``` , which had the password we wanted 
+- Password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

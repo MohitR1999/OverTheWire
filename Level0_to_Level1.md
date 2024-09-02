@@ -1,0 +1,4 @@
+- Locate a file called ```readme``` present in the home directory of user ```bandit0```
+- Password is present in the file
+- Log out of the machine and then log in with the found password and username ```bandit1```
+- Found password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If

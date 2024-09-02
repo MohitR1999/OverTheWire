@@ -1,0 +1,7 @@
+- Password for this file is stored somewhere on the server with the following properties:
+	- owned by user ```bandit7```
+	- owned by group ```bandit6```
+	- exactly 33 bytes in size
+- For finding this file, the ```find``` command had to be run with additional parameters specifying user, group and file size.
+- Ran the command: ```find . -type f -size 33c -user bandit7 -group bandit6 2>/dev/null```
+- Found only one file, and the found password was: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
