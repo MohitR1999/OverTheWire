@@ -1,0 +1,6 @@
+- In this level, we need to somehow log in to the server using SSH, however the session closes as soon as the connection is established
+- Since the problem statement hints that the ```.bashrc``` file has been modified, it implies that whatever code that has been added to end the session will work only on the ```bash``` shell.
+- Since we can't use the ```bash``` shell, let's try another shell, say, ```sh```
+- We allocate a pseudo terminal while logging in with ssh using the command: ```ssh -t -l bandit18 bandit.labs.overthewire.org -p 2220 sh -l```. This allocates a pseudo ```sh``` terminal for our connection that does NOT reads the ```.bashrc``` and hence we are able to log in
+- Once we are in, the password for next level is present in the ```readme``` file. We just read it and get the password
+- Obtained password: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
