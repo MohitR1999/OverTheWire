@@ -1,0 +1,4 @@
+- This level contains a slightly tougher shell script
+- So essentially the password is being copied to file, which has a peculiar name, which is generated from the MD5 sum of the username ```bandit23```
+- We read the script, generate the hash ourselves, and then read that file with the same name
+- Obtained password: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga

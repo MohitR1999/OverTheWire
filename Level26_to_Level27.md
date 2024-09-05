@@ -1,0 +1,2 @@
+- We had obtained password for this level in the previous one itself
+- Obtained password: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB

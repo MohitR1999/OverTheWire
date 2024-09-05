@@ -3,5 +3,5 @@
 - In one terminal, we start listening on the port ```9999``` using ```netcat``` by running the command: ```nc -l 9999```
 - In the other terminal, we establish a connection using the ```suconnect``` binary to the same port, ```9999```
 - We supply the password from the terminal running netcat
-- This yields the password for next leve
+- This yields the password for next level
 - Obtained password: EeoULMCra2q0dSkYj561DX7s1CpBuOBt
