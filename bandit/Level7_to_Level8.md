@@ -1,0 +1,4 @@
+- Password for this level is stored in the file ```data.txt``` next to the word ```millionth```
+- Since this is a huge file, started paging it through ```less```
+- Found the word ```millionth``` using the search feature in the file, that comes up with the ```/```
+- Found the password next to it: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

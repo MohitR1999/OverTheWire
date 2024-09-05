@@ -1,0 +1,3 @@
+- Password for this level is present in the file ```data.txt``` which has been encrypted using ROT13 algorithm
+- For decrypting the file, simply used cyberchef and used ROT13 decryption algorithm
+- Found password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4

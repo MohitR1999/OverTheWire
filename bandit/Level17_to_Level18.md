@@ -1,0 +1,4 @@
+- This challenge requires us to compare two files and find out the difference
+- The level has two files, ```passwords.new``` and ```passwords.old```, and the password is the only new line added in the ```passwords.new``` file
+- For solving this we use the ```diff``` command. Ran it as follows: ```diff -uN passwords.old passwords.new```
+- Password obtained: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO

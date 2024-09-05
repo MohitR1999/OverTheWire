@@ -1,0 +1,4 @@
+- For this level, no password has been provided. Instead, only a RSA private key has been provided which can be used to log in with the user ```bandit14```
+- Just cat the contents of the RSA private key and save it locally. Set permissions to ```600``` and specify this as the identity file while logging in to the server
+- Now the password can also be read once authenticated
+- Password for ```bandit14```: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS

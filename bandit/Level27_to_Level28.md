@@ -1,0 +1,5 @@
+- In this level all we need to do is to clone a git repository and read the password inside it
+- We clone the repository using the command: ```git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo```
+- The password for the repository is same as the password for the ```bandit27``` user
+- We then navigate inside the repo and find the password
+- Obtained password: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
