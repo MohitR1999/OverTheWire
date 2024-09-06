@@ -1,5 +1,0 @@
-- In the previous level, the password has been obtained
-- The same password needs to be supplied to the port 30000 running a service on the same server
-- Upon supplying the password using ```netcat```, the password for next level is obtained
-- Command used: ```nc localhost 30000```
-- Password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo

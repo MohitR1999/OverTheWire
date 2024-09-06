@@ -1,4 +1,0 @@
-- Password for this level is stored in a file ```data.txt``` and is the only line of text that occurs once
-- For this we will first sort the file lexicographically, and then find the only unique line using the ```uniq``` command
-- Ran this command: ```sort data.txt | uniq -u```
-- Found password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

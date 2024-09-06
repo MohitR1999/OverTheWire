@@ -1,3 +1,0 @@
-- Password for this level is in a file that is base64 encoded
-- For retrieving the password, simply use the ```base64``` command with ```--decode``` flag
-- Found Password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

@@ -4,143 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3e1acdbc58449956",
+        "id": "393ae43f7fa06c56",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2cee0a9da8bd04",
+            "id": "4c2a2fdb44d7c732",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level23_to_Level24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0058002b5f55c213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level24_to_Level25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef8fce4b7eddf395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level25_to_Level26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d12be0d24a7a9b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level27_to_Level28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0078ebabd2e2d830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level28_to_Level29.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e1e6ab0b6a1836a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level29_to_Level30.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b63eda8442fbdd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level30_to_Level31.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4b7ec08fb3e6bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level31_to_Level32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2ffcf90d5071033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level32_to_Level33.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86d87524d39887f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level33.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f50916a60c3ff31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level27_to_Level28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level33.md",
+                "file": "bandit/Level2_to_Level3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level33.md",
+                "file": "bandit/Level2_to_Level3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level33.md"
+                "file": "bandit/Level2_to_Level3.md"
               }
             }
           }
@@ -267,40 +142,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86d87524d39887f9",
+  "active": "cb5a6b20b4585872",
   "lastOpenFiles": [
-    "Level32_to_Level33.md",
+    "bandit/Level0_to_Level1.md",
+    "bandit/Level0.md",
     "Level33.md",
+    "Level32_to_Level33.md",
     "Level31_to_Level32.md",
     "Level30_to_Level31.md",
     "Level29_to_Level30.md",
     "Level28_to_Level29.md",
     "Level27_to_Level28.md",
-    "Level26_to_Level27.md",
+    "bandit/Level33.md",
+    "bandit/Level32_to_Level33.md",
+    "bandit/Level31_to_Level32.md",
+    "bandit/Level30_to_Level31.md",
+    "bandit/Level29_to_Level30.md",
     "Level25_to_Level26.md",
-    "Level24_to_Level25.md",
+    "bandit/Level28_to_Level29.md",
+    "bandit/Level27_to_Level28.md",
+    "bandit/Level26_to_Level27.md",
+    "bandit/Level25_to_Level26.md",
+    "bandit/Level24_to_Level25.md",
+    "bandit/Level23_to_Level24.md",
+    "bandit/Level22_to_Level23.md",
+    "bandit/Level21_to_Level22.md",
+    "bandit/Level20_to_Level21.md",
+    "bandit/Level19_to_Level20.md",
+    "bandit/Level18_to_Level19.md",
+    "bandit/bandit26.private",
+    "bandit/bandit17.private",
+    "bandit/bandit14.private",
+    "natas",
+    "bandit",
     "bandit26.private",
-    "Level23_to_Level24.md",
     "four_digit_combinations.txt",
     "wordlist.txt",
     "hack_bandit25.py",
-    "Level22_to_Level23.md",
-    "hack_bandit24.sh",
-    "Level21_to_Level22.md",
-    "Level20_to_Level21.md",
-    "Level12_to_Level13.md",
-    "Level13_to_Level14.md",
-    "Level14_to_Level15.md",
-    "Level15_to_Level16.md",
-    "Level16_to_Level17.md",
-    "Level17_to_Level18.md",
-    "Level18_to_Level19.md",
-    "Level19_to_Level20.md",
-    "Level11_to_Level12.md",
-    "Level10_to_Level11.md",
-    "bandit17",
-    "Level0.md",
-    "bandit14",
-    "Level9_to_Level10.md"
+    "hack_bandit24.sh"
   ]
 }

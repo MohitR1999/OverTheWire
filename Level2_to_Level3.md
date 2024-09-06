@@ -1,3 +1,0 @@
-- Password for this level is stored in a file with spaces in its name
-- Read this file by specifying the name inside single quotes, like this: ```cat 'spaces in this filename'```
-- Found password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx

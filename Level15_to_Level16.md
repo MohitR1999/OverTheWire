@@ -1,5 +1,0 @@
-- This level requires the password of the current level to be sent over an encrypted channel (using SSL) to a port running a service on port number 30001
-- We can use ```openssl``` to achieve the same
-- Ran the command: ```openssl s_client -connect localhost:30001``` , got some informational logs showing the status of SSL handshake and stuff
-- Provided the password for the current level and got the password for the next
-- Password obtained: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx

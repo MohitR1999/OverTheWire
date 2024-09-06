@@ -1,6 +1,0 @@
-- This level requires us to find the port which is talking in SSL, and is present in the range of ```31000``` to ```32000```
-- We use ```nmap``` to do a port scan and find the open ports which are running SSL. We used the command ```nmap -sV -p 31000-32000 localhost```
-- After a while, the ```nmap``` result showed that the port ```31790``` was running the required SSL service
-- To connect to the port, we used ```ncat --ssl localhost 31790``` and provided the password. It began with ```k``` that's why ```openssl``` was interpreting ```k``` as a ```KEYUPDATE``` command instead of interpreting it literally
-- We got a RSA private key which we then used to authenticate as the user ```bandit17```
-- Password for the user: EReVavePLFHtFlFsjn3hyzMlvSuSAcRD

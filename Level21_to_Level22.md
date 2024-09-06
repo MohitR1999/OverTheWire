@@ -1,4 +1,0 @@
-- There is a cron job running in the system for user ```bandit22```. All we need to do is just read the shell script and get the password
-- The cron job details are present in ```/etc/cron.d``` directory
-- Just reading the file is enough to get to the password
-- Obtained password: tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q

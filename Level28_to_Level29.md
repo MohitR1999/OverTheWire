@@ -1,7 +1,0 @@
--  In this level all we need to do is to clone a git repository and read the password inside it
-- We clone the repository using the command: ```git clone ssh://bandit28-git@localhost:2220/home/bandit28-git/repo```
-- The password for the repository is same as the password for the ```bandit28``` user
-- We then navigate inside the repo
-- There is a ```README.md``` file that has the password, however it has been masked
-- But since it is version controlled, we just checkout one previous version and boom! we have the password ready
-- Obtained password: 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7

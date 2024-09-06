@@ -1,9 +1,0 @@
--  In this level all we need to do is to clone a git repository and read the password inside it
-- We clone the repository using the command: ```git clone ssh://bandit29-git@localhost:2220/home/bandit29-git/repo```
-- The password for the repository is same as the password for the ```bandit29``` user
-- We then navigate inside the repo
-- There is a ```README.md``` file that says 'No passwords in production'
-- However, if we poke around, there are multiple branches present in the repository
-- We switch to the branch ```dev```
-- In this branch, the ```README.md``` has the password we need
-- Obtained password: qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL

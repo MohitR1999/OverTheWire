@@ -1,4 +1,0 @@
-- Password for this level is stored in the only human readable file inside ```inhere``` directory
-- The file was ```-file07```. Went through all the files by hit and trial and using ```xxd``` to analyse the hex dump of each file
-- Read the password using ```cat -file07```
-- Found password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

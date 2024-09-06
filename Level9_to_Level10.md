@@ -1,4 +1,0 @@
-- Password for this level is stored in a file called ```data.txt``` in one of the few human readable strings, preceded by several ```=``` characters
-- Used the ```xxd``` command to analyse the file contents and piped its output to ```less``` to paginate the actual result
-- Found the password. Also verified it by running ```strings``` command over the file which returned the strings found in the file
-- Found password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

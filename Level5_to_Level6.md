@@ -1,7 +1,0 @@
-- Password for this level is stored in a file which has the following properties:
-	- human-readable
-	- 1033 bytes in size
-	- not executable
-- However, running the ```find``` command with only the size parameter leaves us with a single file, telling that it is the only possible file that can match these properties.
-- Ran this command: ```find . -type f -size 1033c```. Specified size as ```1033c``` which means 1033 bytes only
-- Found password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG

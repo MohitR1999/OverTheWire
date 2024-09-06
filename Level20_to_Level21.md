@@ -1,7 +1,0 @@
-- This level requires us to establish a socket connection on localhost at some port of our choice, supply the password on one end, and if they match, the password of next level will be provided by the binary that makes the connection
-- So for this, we launch two terminals and log in to the user ```bandit20``` in both of them
-- In one terminal, we start listening on the port ```9999``` using ```netcat``` by running the command: ```nc -l 9999```
-- In the other terminal, we establish a connection using the ```suconnect``` binary to the same port, ```9999```
-- We supply the password from the terminal running netcat
-- This yields the password for next level
-- Obtained password: EeoULMCra2q0dSkYj561DX7s1CpBuOBt

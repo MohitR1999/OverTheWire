@@ -1,6 +1,0 @@
-- Just need to log in to the game using SSH
-- Details:
-	- host: bandit.labs.overthewire.org
-	- port: 2220
-	- user: bandit0
-	- pass: bandit0

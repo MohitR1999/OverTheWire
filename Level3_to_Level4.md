@@ -1,4 +1,0 @@
-- Password for this level is stored in a hidden file inside ```inhere``` directory
-- Use ```ls -la``` to show hidden files while listing
-- Read the file using ```cat``` and then get the password
-- Found password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
