@@ -1,6 +1,6 @@
 - This level really starts getting into our PHP skills, fortunately I have google to the rescue ;)
 - So on this level, we have a form that takes in a secret and compares it to the secret value that we already have on the server. If these values match, we will get our password
-- How do I know this? Well, the same strategy of putting in a mimic of the page's source is also available on this leve
+- How do I know this? Well, the same strategy of putting in a mimic of the page's source is also available on this level
 - Upon viewing the mimic source, I found the following PHP code:
 ```php
 $encodedSecret = "3d3d516343746d4d6d6c315669563362";      function encodeSecret($secret) {       return bin2hex(strrev(base64_encode($secret)));
