@@ -1,0 +1,8 @@
+- This level requires us to have some basic knowledge of PHP, but I feel like if you know basic web development concepts using modern JavaScript, you'll be just fine
+- So the page presents us with a form that asks for a secret. There's also a link on the page to view source code of the rendered page
+- There we find some PHP code, as well as an include directive that includes the file ```includes/secret.inc```
+- I felt like it might have some juicy info, so I just created the URL ```http://natas6.natas.labs.overthewire.org/includes/secret.inc``` and opened up the developer console there
+- On that page's source, there was a variable named ```secret``` in the comments, which had the value ```FOEIUWGHFEEUHOFUOIU```
+- I took this string and pasted in the input presented on the challenge page. It worked!
+- Obtained the password for ```natas7```, which was: bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
+- Pointed to be observed: The view sourcecode link on the challenge page DID NOT reveal the password as it has been designed to mimic the original source code of the page, not the exact source, otherwise it could have been way easier lol

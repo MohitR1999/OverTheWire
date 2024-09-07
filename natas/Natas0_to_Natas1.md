@@ -1,0 +1,2 @@
+- The password for ```natas1``` is present in the comments of the HTML source that can be easily viewed by opening the developer tools in the browser
+- Obtained password: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq

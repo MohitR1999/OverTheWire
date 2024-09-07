@@ -11,8 +11,12 @@
             "id": "4c2a2fdb44d7c732",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "natas/Natas8_to_Natas9.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bandit/Level2_to_Level3.md",
+                "file": "natas/Natas8_to_Natas9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bandit/Level2_to_Level3.md",
+                "file": "natas/Natas8_to_Natas9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bandit/Level2_to_Level3.md"
+                "file": "natas/Natas8_to_Natas9.md"
               }
             }
           }
@@ -142,8 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb5a6b20b4585872",
+  "active": "4c2a2fdb44d7c732",
   "lastOpenFiles": [
+    "natas/Natas7_to_Natas8.md",
+    "natas/Natas8_to_Natas9.md",
+    "natas/Natas6_to_Natas7.md",
+    "Untitled.md",
+    "natas/Natas5_to_Natas6.md",
+    "natas/Natas4_to_Natas5.md",
+    "natas/Natas3_to_Natas4.md",
+    "natas/Natas2_to_Natas3.md",
+    "natas/Natas1_to_Natas2.md",
+    "natas/Natas0_to_Natas1.md",
     "bandit/Level0_to_Level1.md",
     "bandit/Level0.md",
     "Level33.md",
@@ -160,16 +174,6 @@
     "bandit/Level29_to_Level30.md",
     "Level25_to_Level26.md",
     "bandit/Level28_to_Level29.md",
-    "bandit/Level27_to_Level28.md",
-    "bandit/Level26_to_Level27.md",
-    "bandit/Level25_to_Level26.md",
-    "bandit/Level24_to_Level25.md",
-    "bandit/Level23_to_Level24.md",
-    "bandit/Level22_to_Level23.md",
-    "bandit/Level21_to_Level22.md",
-    "bandit/Level20_to_Level21.md",
-    "bandit/Level19_to_Level20.md",
-    "bandit/Level18_to_Level19.md",
     "bandit/bandit26.private",
     "bandit/bandit17.private",
     "bandit/bandit14.private",

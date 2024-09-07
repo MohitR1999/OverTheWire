@@ -1,0 +1,6 @@
+- This page presents us with the text that we are not allowed
+- As usual, we start screening the page source, the CSS and JS files present (if any) and the network tab and storage
+- I observed that the cookie that was being sent in the request had the value of ```loggedin``` set to ```0```
+- So, I modified the value of the ```loggedin``` key in the cookie to ```1``` and refreshed the page
+- Access was granted, and we were presented with the password for ```natas6```
+- Obtained password: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned

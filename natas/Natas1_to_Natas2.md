@@ -1,0 +1,3 @@
+- The password for ```natas2``` is present in the HTML source in the comments.
+- Here, right clicking on the page is disabled, so we just open the developer console in the browser by using the specific shortcuts
+- Obtained password: TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI

@@ -1,0 +1,5 @@
+- This level requires us to make use of the ```Referer``` request header, more details about which can be found at [this MDN doc](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer)
+- In short, we need to set the ```Referer``` header in our HTTP request to the one specified on the page. The page says: ```authorized users should come only from "http://natas5.natas.labs.overthewire.org/"```
+- So we fire up Postman, import the GET request that was sent from the browser, and modify the ```Referer``` header to the one specified on the page
+- When I fired the request, it was successful and I got the password for ```natas5```
+- Obtained password0n35PkggAPm2zbEpOU802c0x0Msn1ToK
