@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas14_to_Natas15.md",
-                "mode": "source",
+                "file": "natas/Natas15_to_Natas16.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas14_to_Natas15.md",
+                "file": "natas/Natas15_to_Natas16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "natas/Natas14_to_Natas15.md",
+                "file": "natas/Natas15_to_Natas16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "natas/Natas14_to_Natas15.md"
+                "file": "natas/Natas15_to_Natas16.md"
               }
             }
           }
@@ -148,22 +148,30 @@
   },
   "active": "4c2a2fdb44d7c732",
   "lastOpenFiles": [
-    "natas/Natas13_to_Natas14.md",
+    "natas/Natas12_to_Natas13.md",
+    "natas/Natas15_to_Natas16.md",
     "natas/Natas14_to_Natas15.md",
+    "bandit/Level31_to_Level32.md",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/REQUESTED",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/INSTALLER",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/INSTALLERehk9fp_9.tmp",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests/__pycache__/utils.cpython-312.pyc",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests/__pycache__/structures.cpython-312.pyc",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests/__pycache__/status_codes.cpython-312.pyc",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests/__pycache__/sessions.cpython-312.pyc",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests/__pycache__/packages.cpython-312.pyc",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests/__pycache__/models.cpython-312.pyc",
+    "scripts/natas15/env/lib/python3.12/site-packages/requests/__pycache__/hooks.cpython-312.pyc",
+    "scripts/natas15/env/lib/python3.12/site-packages/idna-3.9.dist-info/LICENSE.md",
+    "bandit/Level32_to_Level33.md",
+    "natas/Natas13_to_Natas14.md",
     "natas/Natas1_to_Natas2.md",
     "natas/Natas0_to_Natas1.md",
     "natas/Natas3_to_Natas4.md",
     "natas/Natas2_to_Natas3.md",
-    "natas/Natas12_to_Natas13.md",
     "natas/Natas11_to_Natas12.md",
-    "new_upload.php",
-    "upload1.php",
-    "generator.py",
-    "test.php",
     "bandit/Level12_to_Level13.md",
     "bandit/Level11_to_Level12.md",
-    "upload.php",
-    "natas11.php",
     "natas/Natas10_to_Natas11.md",
     "natas/Natas9_to_Natas10.md",
     "natas/Natas8_to_Natas9.md",
@@ -175,14 +183,6 @@
     "bandit/Level0_to_Level1.md",
     "bandit/Level0.md",
     "Level33.md",
-    "Level32_to_Level33.md",
-    "Level31_to_Level32.md",
-    "Level30_to_Level31.md",
-    "Level29_to_Level30.md",
-    "Level28_to_Level29.md",
-    "bandit/bandit26.private",
-    "bandit/bandit17.private",
-    "bandit/bandit14.private",
-    "natas"
+    "Level32_to_Level33.md"
   ]
 }
