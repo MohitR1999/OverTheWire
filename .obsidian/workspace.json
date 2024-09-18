@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas18_to_Natas19.md",
+                "file": "natas/Natas19_to_Natas20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas18_to_Natas19.md",
+                "file": "natas/Natas19_to_Natas20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "natas/Natas18_to_Natas19.md",
+                "file": "natas/Natas19_to_Natas20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "natas/Natas18_to_Natas19.md"
+                "file": "natas/Natas19_to_Natas20.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4c2a2fdb44d7c732",
   "lastOpenFiles": [
-    "natas/Natas17_to_Natas18.md",
+    "cyberchef.md",
+    "natas/Natas19_to_Natas20.md",
     "natas/Natas18_to_Natas19.md",
+    "natas/Natas17_to_Natas18.md",
     "scripts/natas18/mimic.php",
     "scripts/natas18",
     "natas/Natas16_to_Natas17.md",
@@ -181,8 +183,6 @@
     "natas/Natas1_to_Natas2.md",
     "natas/Natas0_to_Natas1.md",
     "natas/Natas2_to_Natas3.md",
-    "bandit/Level12_to_Level13.md",
-    "bandit/Level11_to_Level12.md",
-    "Untitled.md"
+    "bandit/Level12_to_Level13.md"
   ]
 }
