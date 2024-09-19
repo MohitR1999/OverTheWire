@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas19_to_Natas20.md",
+                "file": "natas/Natas20_to_Natas21.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "319c1271e70df57b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas19_to_Natas20.md",
+                "file": "natas/Natas20_to_Natas21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "natas/Natas19_to_Natas20.md",
+                "file": "natas/Natas20_to_Natas21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "natas/Natas19_to_Natas20.md"
+                "file": "natas/Natas20_to_Natas21.md"
               }
             }
           }
@@ -146,24 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c2a2fdb44d7c732",
+  "active": "cb5a6b20b4585872",
   "lastOpenFiles": [
-    "cyberchef.md",
+    "Pasted image 20240919181245.png",
+    "Pasted image 20240919181118.png",
+    "Pasted image 20240919180919.png",
+    "Pasted image 20240919180713.png",
+    "Pasted image 20240919180302.png",
+    "Pasted image 20240919175828.png",
     "natas/Natas19_to_Natas20.md",
     "natas/Natas18_to_Natas19.md",
+    "natas/Natas20_to_Natas21.md",
+    "scripts/natas20/sorted_unique_list.txt",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/top_level.txt",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/WHEEL",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/REQUESTED",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/RECORD",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/METADATA",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/LICENSE",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/INSTALLER",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info",
+    "scripts/natas20/env/lib/python3.12/site-packages/requests/__pycache__/utils.cpython-312.pyc",
+    "scripts/natas20/env/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md",
+    "cyberchef.md",
     "natas/Natas17_to_Natas18.md",
-    "scripts/natas18/mimic.php",
-    "scripts/natas18",
     "natas/Natas16_to_Natas17.md",
     "natas/Natas15_to_Natas16.md",
-    "scripts/natas17/bruteforcer.py",
-    "scripts/natas17/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/top_level.txt",
-    "scripts/natas17/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/WHEEL",
-    "scripts/natas17/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/REQUESTED",
-    "scripts/natas17/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/RECORD",
-    "scripts/natas17/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/LICENSE",
-    "scripts/natas17/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/METADATA",
-    "scripts/natas17/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/INSTALLER",
     "scripts/natas17/env/lib/python3.12/site-packages/idna-3.9.dist-info/LICENSE.md",
     "natas/Natas10_to_Natas11.md",
     "natas/Natas9_to_Natas10.md",
@@ -180,9 +189,6 @@
     "bandit/Level31_to_Level32.md",
     "scripts/natas15/env/lib/python3.12/site-packages/idna-3.9.dist-info/LICENSE.md",
     "bandit/Level32_to_Level33.md",
-    "natas/Natas1_to_Natas2.md",
-    "natas/Natas0_to_Natas1.md",
-    "natas/Natas2_to_Natas3.md",
-    "bandit/Level12_to_Level13.md"
+    "natas/Natas1_to_Natas2.md"
   ]
 }
