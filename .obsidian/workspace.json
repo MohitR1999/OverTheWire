@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas25_to_Natas26.md",
+                "file": "natas/Natas26_to_Natas27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas25_to_Natas26.md",
+                "file": "natas/Natas26_to_Natas27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "natas/Natas25_to_Natas26.md",
+                "file": "natas/Natas26_to_Natas27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "natas/Natas25_to_Natas26.md"
+                "file": "natas/Natas26_to_Natas27.md"
               }
             }
           }
@@ -148,18 +148,30 @@
   },
   "active": "4c2a2fdb44d7c732",
   "lastOpenFiles": [
-    "natas/Natas9_to_Natas10.md",
-    "natas/Natas25_to_Natas26.md",
+    "scripts/natas26/exploit.php",
+    "scripts/natas26",
     "natas/Natas24_to_Natas25.md",
+    "natas/Natas21_to_Natas22.md",
+    "natas/Natas16_to_Natas17.md",
+    "natas/Natas0_to_Natas1.md",
+    "bandit/Level6_to_Level7.md",
+    "bandit/Level5_to_Level6.md",
+    "natas/Natas6_to_Natas7.md",
+    "bandit/Level33.md",
+    "bandit/Level32_to_Level33.md",
+    "natas/Natas26_to_Natas27.md",
+    "bandit/Level25_to_Level26.md",
+    "bandit/Level23_to_Level24.md",
+    "natas/Natas1_to_Natas2.md",
+    "natas/Natas25_to_Natas26.md",
+    "natas/Natas9_to_Natas10.md",
     "natas/Natas23_to_Natas24.md",
     "natas/Natas8_to_Natas9.md",
     "natas/Natas10_to_Natas11.md",
-    "natas/Natas16_to_Natas17.md",
     "natas/Natas15_to_Natas16.md",
     "natas/Natas22_to_Natas23.md",
     "scripts/natas23/test.php",
     "scripts/natas23",
-    "natas/Natas21_to_Natas22.md",
     "natas/Natas20_to_Natas21.md",
     "images",
     "Pasted image 20240919181245.png",
@@ -176,19 +188,7 @@
     "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/REQUESTED",
     "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/RECORD",
     "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/METADATA",
-    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/LICENSE",
     "scripts/natas20/env/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md",
-    "cyberchef.md",
-    "natas/Natas17_to_Natas18.md",
-    "scripts/natas17/env/lib/python3.12/site-packages/idna-3.9.dist-info/LICENSE.md",
-    "natas/Natas7_to_Natas8.md",
-    "natas/Natas6_to_Natas7.md",
-    "natas/Natas5_to_Natas6.md",
-    "natas/Natas4_to_Natas5.md",
-    "natas/Natas3_to_Natas4.md",
-    "natas/Natas14_to_Natas15.md",
-    "natas/Natas13_to_Natas14.md",
-    "natas/Natas12_to_Natas13.md",
-    "natas/Natas11_to_Natas12.md"
+    "cyberchef.md"
   ]
 }
