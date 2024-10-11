@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas27_to_Natas28.md",
+                "file": "natas/Natas28_to_Natas29.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 313.5
   },
   "right": {
     "id": "319c1271e70df57b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas27_to_Natas28.md",
+                "file": "natas/Natas28_to_Natas29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "natas/Natas27_to_Natas28.md",
+                "file": "natas/Natas28_to_Natas29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "natas/Natas27_to_Natas28.md"
+                "file": "natas/Natas28_to_Natas29.md"
               }
             }
           }
@@ -148,20 +148,33 @@
   },
   "active": "4c2a2fdb44d7c732",
   "lastOpenFiles": [
+    "scripts/natas28/execute_attack.py",
+    "scripts/natas28/preparing_attack.py",
+    "scripts/natas28/attack.py",
+    "Pasted image 20241011113436.png",
+    "scripts/natas28/figuring_out_block_pattern.py",
+    "scripts/natas28/output.txt",
+    "scripts/natas28/figuring_out_block_size.py",
+    "Pasted image 20241010205022.png",
+    "scripts/natas28/figuring_out_query_param.py",
+    "Pasted image 20241010203215.png",
+    "Pasted image 20241010203102.png",
+    "Pasted image 20241010202958.png",
+    "images/whack_computer_joke_database_home.png",
+    "natas/Natas28_to_Natas29.md",
+    "natas/Natas27_to_Natas28.md",
+    "scripts/natas28/test.txt",
+    "scripts/natas28/info.txt",
+    "scripts/natas28",
     "scripts/natas9-rce/output.html",
     "natas/Natas12_to_Natas13.md",
-    "reverse_shell.php",
-    "upload copy.php",
     "natas/Natas11_to_Natas12.md",
     "natas/Natas10_to_Natas11.md",
     "natas/Natas9_to_Natas10.md",
     "natas/Natas8_to_Natas9.md",
     "natas/Natas1_to_Natas2.md",
     "natas/Natas0_to_Natas1.md",
-    "natas/Natas27_to_Natas28.md",
     "natas/Natas26_to_Natas27.md",
-    "scripts/natas26/exploit.php",
-    "scripts/natas26",
     "natas/Natas24_to_Natas25.md",
     "natas/Natas21_to_Natas22.md",
     "natas/Natas16_to_Natas17.md",
@@ -176,19 +189,10 @@
     "natas/Natas23_to_Natas24.md",
     "natas/Natas15_to_Natas16.md",
     "natas/Natas22_to_Natas23.md",
-    "scripts/natas23/test.php",
-    "scripts/natas23",
     "natas/Natas20_to_Natas21.md",
-    "images",
     "Pasted image 20240919181245.png",
     "Pasted image 20240919181118.png",
     "Pasted image 20240919180919.png",
-    "Pasted image 20240919180713.png",
-    "Pasted image 20240919180302.png",
-    "Pasted image 20240919175828.png",
-    "natas/Natas19_to_Natas20.md",
-    "scripts/natas20/sorted_unique_list.txt",
-    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/top_level.txt",
-    "scripts/natas20/env/lib/python3.12/site-packages/requests-2.32.3.dist-info/WHEEL"
+    "Pasted image 20240919180713.png"
   ]
 }
