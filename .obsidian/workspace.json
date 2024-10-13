@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas28_to_Natas29.md",
+                "file": "natas/Natas30_to_Natas31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas28_to_Natas29.md",
+                "file": "natas/Natas30_to_Natas31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "natas/Natas28_to_Natas29.md",
+                "file": "natas/Natas30_to_Natas31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "natas/Natas28_to_Natas29.md"
+                "file": "natas/Natas30_to_Natas31.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "4c2a2fdb44d7c732",
   "lastOpenFiles": [
+    "natas/Natas29_to_Natas30.md",
+    "natas/Natas30_to_Natas31.md",
+    "natas/Natas25_to_Natas26.md",
+    "natas/Natas26_to_Natas27.md",
+    "natas/Natas27_to_Natas28.md",
+    "natas/Natas28_to_Natas29.md",
     "scripts/natas28/execute_attack.py",
     "scripts/natas28/preparing_attack.py",
     "scripts/natas28/attack.py",
@@ -161,12 +167,9 @@
     "Pasted image 20241010203102.png",
     "Pasted image 20241010202958.png",
     "images/whack_computer_joke_database_home.png",
-    "natas/Natas28_to_Natas29.md",
-    "natas/Natas27_to_Natas28.md",
     "scripts/natas28/test.txt",
     "scripts/natas28/info.txt",
     "scripts/natas28",
-    "scripts/natas9-rce/output.html",
     "natas/Natas12_to_Natas13.md",
     "natas/Natas11_to_Natas12.md",
     "natas/Natas10_to_Natas11.md",
@@ -174,7 +177,6 @@
     "natas/Natas8_to_Natas9.md",
     "natas/Natas1_to_Natas2.md",
     "natas/Natas0_to_Natas1.md",
-    "natas/Natas26_to_Natas27.md",
     "natas/Natas24_to_Natas25.md",
     "natas/Natas21_to_Natas22.md",
     "natas/Natas16_to_Natas17.md",
@@ -185,11 +187,9 @@
     "bandit/Level32_to_Level33.md",
     "bandit/Level25_to_Level26.md",
     "bandit/Level23_to_Level24.md",
-    "natas/Natas25_to_Natas26.md",
     "natas/Natas23_to_Natas24.md",
     "natas/Natas15_to_Natas16.md",
     "natas/Natas22_to_Natas23.md",
-    "natas/Natas20_to_Natas21.md",
     "Pasted image 20240919181245.png",
     "Pasted image 20240919181118.png",
     "Pasted image 20240919180919.png",
