@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas30_to_Natas31.md",
+                "file": "natas/Natas33_to_Natas34.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas30_to_Natas31.md",
+                "file": "natas/Natas33_to_Natas34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "natas/Natas30_to_Natas31.md",
+                "file": "natas/Natas33_to_Natas34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "natas/Natas30_to_Natas31.md"
+                "file": "natas/Natas33_to_Natas34.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "4c2a2fdb44d7c732",
   "lastOpenFiles": [
-    "natas/Natas29_to_Natas30.md",
+    "natas/Natas32_to_Natas33.md",
+    "natas/Natas33_to_Natas34.md",
+    "scripts/natas33/test.php",
+    "scripts/natas33/payload.php",
+    "scripts/natas33",
+    "natas/Natas31_to_Natas32.md",
     "natas/Natas30_to_Natas31.md",
+    "test.txt",
+    "scripts/natas31/test.pl",
+    "natas/Natas29_to_Natas30.md",
     "natas/Natas25_to_Natas26.md",
     "natas/Natas26_to_Natas27.md",
     "natas/Natas27_to_Natas28.md",
@@ -160,16 +168,11 @@
     "Pasted image 20241011113436.png",
     "scripts/natas28/figuring_out_block_pattern.py",
     "scripts/natas28/output.txt",
-    "scripts/natas28/figuring_out_block_size.py",
     "Pasted image 20241010205022.png",
-    "scripts/natas28/figuring_out_query_param.py",
     "Pasted image 20241010203215.png",
     "Pasted image 20241010203102.png",
     "Pasted image 20241010202958.png",
     "images/whack_computer_joke_database_home.png",
-    "scripts/natas28/test.txt",
-    "scripts/natas28/info.txt",
-    "scripts/natas28",
     "natas/Natas12_to_Natas13.md",
     "natas/Natas11_to_Natas12.md",
     "natas/Natas10_to_Natas11.md",
@@ -187,9 +190,6 @@
     "bandit/Level32_to_Level33.md",
     "bandit/Level25_to_Level26.md",
     "bandit/Level23_to_Level24.md",
-    "natas/Natas23_to_Natas24.md",
-    "natas/Natas15_to_Natas16.md",
-    "natas/Natas22_to_Natas23.md",
     "Pasted image 20240919181245.png",
     "Pasted image 20240919181118.png",
     "Pasted image 20240919180919.png",
